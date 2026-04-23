@@ -1,0 +1,42 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+}
+
+.contenedor {
+  width: 80%;
+  margin: auto;
+  background: white;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.foto {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.seccion {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background: #2c3e50;
+  color: white;
+}
